@@ -1,0 +1,27 @@
+REQUIREMENTS
+============
+- This code is based on Python 2.7.10
+  code is 2.7.x
+- Windows, Mac, Linux
+
+
+USAGE
+=====
+open a command line terminal in the test.py file dictionary:
+> python test.py
+
+
+FILE
+=====
+Distance.py
+    --describe the distance between the cities
+get_input_data.py
+    --get the input data from the input.txt path
+Solution.py
+    --the methods that can solve the problem
+test.py
+    --to init the problem, and solve the issue cases, and print the result
+input.txt
+    --the given input data
+problem.txt
+    --The description about the problem
